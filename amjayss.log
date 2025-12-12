@@ -1,0 +1,7 @@
+Queue #	URL	Start Time	End Time	RTT (ms)	Status Code	Total Size (KB)	Throughput (KB/s)
+1	http://10.40.1.135/index3.html	2025-12-10 18:28:24.234036	2025-12-10 18:28:29.386677	5152.64	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
+2	http://10.40.1.135/index36.html	2025-12-10 18:28:25.236309	2025-12-10 18:28:30.254696	5018.39	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
+3	http://10.40.1.135/index12.html	2025-12-10 18:28:26.238390	2025-12-10 18:28:31.268022	5029.63	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
+4	http://10.40.1.135/index7.html	2025-12-10 18:28:27.242419	2025-12-10 18:28:32.382654	5140.23	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
+5	http://10.40.1.135/index1.html	2025-12-10 18:28:28.244034	2025-12-10 18:28:33.408534	5164.5	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
+6	http://10.40.1.135/index1.html	2025-12-10 18:28:29.387194	2025-12-10 18:28:34.513567	5126.37	Failed: HTTPConnectionPool(host='10.40.1.135', port=80): Read timed out. (read timeout=5)	0	0
